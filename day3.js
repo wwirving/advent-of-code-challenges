@@ -7,7 +7,6 @@ var posX = 0;
 var posY = 0;
 var treeCount = 0;
 
-
 while (posY < lines.length-1){
     posX += 3;
     posX %= lines[0].length;
